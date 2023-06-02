@@ -1,2 +1,2 @@
 #### service_sid.ps1
-retrieves all user and servicesid
+retrieves all user and sid // targetsid & servicesid
